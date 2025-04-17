@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: djdo6m49k-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/djdo6m49k-nodejs
